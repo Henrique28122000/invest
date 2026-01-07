@@ -6,8 +6,9 @@ import axios from "axios";
 const SYMBOLS_URL =
   "https://paulohenriquedev.site/investimentos/symbols.php";
 
-const NODE_API_BASE =
-  "http://151.244.242.237:3000/asset";
+const NODE_API_BASE ="http://127.0.0.1:3000/asset"
+  
+//"http://151.244.242.237:3000/asset";
 
 const PHP_UPDATE_URL =
   "https://paulohenriquedev.site/investimentos/index.php";
